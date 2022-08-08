@@ -68,14 +68,14 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"         // 三次元小姐姐
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cpstory"       // cp短打
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/danbooru"      // DeepDanbooru二次元图标签识别
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"          //嘉心糖发病
+
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/drift_bottle"  // 漂流瓶
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/emojimix"      // 合成emoji
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/epidemic"      // 城市疫情查询
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/font"          // 渲染任意文字到图片
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/fortune"       // 运势
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/funny"         // 笑话
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/genshin"        //原神抽卡
+
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif"           // 制图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/github"        // 搜索GitHub仓库
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/guessmusic"    // 猜歌
@@ -107,7 +107,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shadiao"       // 沙雕app
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shindan"       // 测定
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tarot"         // 抽塔罗牌
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tiangou"      //  舔狗日记
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tiangou"       //  舔狗日记
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tracemoe"      // 搜番
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/translation"   // 翻译
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/vtb_quotation" // vtb语录
