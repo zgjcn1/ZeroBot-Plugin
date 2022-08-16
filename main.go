@@ -56,7 +56,7 @@ import (
 	//                               vvvv                               //
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_false" // 服务器监控
-	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"         随机老婆
+	 _ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"         随机老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/b14"           // base16384加解密
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu"         // 百度一下
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili"      // b站相关
@@ -111,7 +111,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tracemoe"    // 搜番
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/translation" // 翻译
 
-	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/vtb_quotation"  vtb语录
+	 _ "github.com/FloatTech/ZeroBot-Plugin/plugin/vtb_quotation"  vtb语录
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wangyiyun"  // 网易云音乐热评
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/word_count" // 聊天热词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordle"     // 猜单词
